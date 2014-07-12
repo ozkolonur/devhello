@@ -1,0 +1,6 @@
+Add a profiler
+make kconfig stable
+add cross compiling support
+add valgrind like tool.
+use getopt in hello.c
+
